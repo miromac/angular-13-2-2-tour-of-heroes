@@ -55,9 +55,6 @@ body, input[type="text"], button {
 .column.middle {
   width: 46%;
 }
-.hero-section {
-  text-align: center;
-}
 
 /* Clear floats after the columns */
 .row::after {
