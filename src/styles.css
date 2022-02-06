@@ -48,12 +48,12 @@ body, input[type="text"], button {
 
 /* Left and right column */
 .column.side {
-  width: 24%;
+  width: 20%;
 }
 
 /* Middle column */
 .column.middle {
-  width: 46%;
+  width: 54%;
 }
 
 /* Clear floats after the columns */
